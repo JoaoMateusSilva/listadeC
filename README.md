@@ -22,6 +22,7 @@ registros e buscar por registros específicos pelo nome.
 
 9.Cálculo de Estatísticas em um Array: Escreva um programa que recebe um array de números e calcula a média, mediana e moda dos elementos.
 
-10.Manipulação de Tempo: Utilize a biblioteca time.h para calcular o tempo que um determinado trecho de código leva para ser executado
+10.Manipulação de Tempo: Utilize a biblioteca time.h para calcular o tempo que um determinado trecho de código leva para ser executado.
+
 
 

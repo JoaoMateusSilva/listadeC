@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+    int n;
+    
+    printf("Quantos elementos você deseja inserir no array? ");
+    scanf("%d", &n);
+    
+    float soma = 0.0;
+
+    for (int i = 0; i < n; i++) {
+        float elemento;
+        printf("Insira o elemento %d: ", i+1);
+        scanf("%f", &elemento);
+        soma += elemento;
+    }
+
+    printf("A soma dos elementos do array é: %.2f\n", soma);
+
+    return 0;
+}
